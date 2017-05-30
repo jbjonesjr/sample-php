@@ -8,7 +8,7 @@
   echo("Basic page doing basic things!!");
 ?>
   <hr/>
-  <p>Other stuff</p>
+  <p>Other stuff here</p>
   <p>Branch: new-test-branch</p>
   <p>push event: :checkmark:</p>
 </body>
