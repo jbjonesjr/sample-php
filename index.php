@@ -11,6 +11,6 @@
   <p>Details</p>
   <p>Branch: new-test-branch</p>
   <p>push event: :checkmark:</p>
-  <p>Deploy status: progressing?</p>
+  <p>Deploy status: progressing? now with the better object owner</p>
 </body>
 </html>
