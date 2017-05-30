@@ -3,7 +3,7 @@
 <title>Single page example</title>
 </head>
 <body>
-  <h1>Start of something good?</h1>
+  <h1>Start of something good with pull requests?</h1>
 <?php
   echo("Basic page doing more basic things!!");
 ?>
