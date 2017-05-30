@@ -10,6 +10,6 @@
   <hr/>
   <p>Other stuff down here</p>
   <p>Branch: new-test-branch</p>
-  <p>push event: :checkmark:</p>
+  <p>push event: :checkmark: :check:</p>
 </body>
 </html>
