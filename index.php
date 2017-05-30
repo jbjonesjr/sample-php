@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Single page example</title>
+<title>Single Page site</title>
 </head>
 <body>
   <h1>Start of something good with Pull Requests?</h1>
