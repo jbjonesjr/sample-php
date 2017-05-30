@@ -9,6 +9,6 @@
 ?>
   <hr/>
   <p>Other stuff down here</p>
-  <p>Branch:new-test-branch</p>
+  <p>Branch: new-test-branch</p>
 </body>
 </html>
