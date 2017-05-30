@@ -11,6 +11,5 @@
   <p>Other stuff down here</p>
   <p>Branch: new-test-branch</p>
   <p>push event: :checkmark:</p>
-  <hr/>
 </body>
 </html>
