@@ -5,7 +5,7 @@
 <body>
   <h1>Start of something good?</h1>
 <?php
-  echo("Basic page doing basic things!!");
+  echo("Basic page doing more basic things!!");
 ?>
   <hr/>
   <p>Other stuff</p>
