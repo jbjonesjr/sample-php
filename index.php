@@ -11,6 +11,6 @@
   <p>Details</p>
   <p>Branch: new-test-branch</p>
   <p>push event: :checkmark:</p>
-  <p>Deploy status: working ? now with more required fields! </p>
+  <p>Deploy status: working ? url now? </p>
 </body>
 </html>
