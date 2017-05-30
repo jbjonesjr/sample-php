@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Single Page site</title>
+<title>Single Page php example</title>
 </head>
 <body>
   <h1>Start of something good with Pull Requests?</h1>
