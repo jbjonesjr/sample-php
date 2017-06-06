@@ -11,6 +11,6 @@
   <p>Other stuff down here</p>
   <p>Branch:test-branch</p>
   <p>Code Climate:enabled</p>
-  <p>Now with push</p>
+  <p>Now with push & statuses?</p>
 </body>
 </html>
