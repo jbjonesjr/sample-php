@@ -11,6 +11,6 @@
   <p>Other stuff down here</p>
   <p>Branch:test-branch</p>
   <p>Code Climate:enabled</p>
-  <p>Now with push &amp; statuses correctly, and status webhook? maybe?</p>
+  <p>Now with push &amp; statuses correctly, and status webhook? maybe? or not?</p>
 </body>
 </html>
