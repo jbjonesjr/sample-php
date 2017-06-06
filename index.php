@@ -12,5 +12,6 @@
   <p>Branch:test-branch</p>
   <p>Code Climate:enabled</p>
   <p>Now with push &amp; statuses correctly, and status webhook? maybe? or not?</p>
+  <?php echo('yes'); ?>
 </body>
 </html>
