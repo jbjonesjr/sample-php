@@ -12,7 +12,7 @@
   <p>Branch:test-branch</p>
   <p>Code Climate:enabled</p>
   <p>Now with push &amp; statuses correctly, and status webhook</p>
-  <p>Adding more status</p>
+  <p>Adding more status, with permissions now</p>
   <?php echo('yes'); ?>
 </body>
 </html>
