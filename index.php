@@ -15,5 +15,6 @@
   <p>Adding more status, with permissions now, and the right sha with partial completition. now with proper plumbing</p>
   <p>Code Climate back?</p>
   <?php echo('yes'); ?>
+  required status
 </body>
 </html>
