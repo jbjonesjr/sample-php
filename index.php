@@ -15,6 +15,6 @@
   <p>Adding more status, with permissions now, and the right sha with partial completition. now with proper plumbing</p>
   <p>Code Climate back?</p>
   <?php echo('yes'); ?>
-  <p>await required status with reponame</p>
+  <p>await required status with reponame & permissions</p>
 </body>
 </html>
