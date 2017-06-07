@@ -10,5 +10,6 @@
   <hr/>
   <p>Other stuff down here</p>
   <p>Branch:test-branch</p>
+  <p>Dropping a new branch</p>
 </body>
 </html>
