@@ -16,6 +16,6 @@
   <p>Code Climate back?</p>
   <?php echo('yes'); ?>
   <p>await required status with reponame &amp; permissions for try/catch with 404 detection.testing</p>
-  <p>Now with wait! and binding</p> kickoff poof again now struggle gross boring golly foobar with refs
+<p>pulls</p>
 </body>
 </html>
