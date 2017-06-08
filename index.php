@@ -16,6 +16,6 @@
   <p>Code Climate back?</p>
   <?php echo('yes'); ?>
   <p>await required status with reponame &amp; permissions for try/catch with 404 detection.testing</p>
-<p>pull w/ heads now with better query</p>
+<p>pull w/ heads now with better query weird order</p>
 </body>
 </html>
