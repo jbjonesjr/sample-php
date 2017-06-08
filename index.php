@@ -10,6 +10,6 @@
   <hr/>
   <p>Other stuff down here</p>
   <p>Branch: the-color-purple</p>
-  <p>No specific body details needed</p> fail12
+  <p>No specific body details needed</p>
 </body>
 </html>
