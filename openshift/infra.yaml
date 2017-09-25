@@ -1,0 +1,4 @@
+project: github-dev
+openshift-url: https://ec2-34-201-32-205.compute-1.amazonaws.com:8443
+openshift-server: ec2-34-201-32-205-compute-1-amazonaws-com:8443
+app_name: samphple
