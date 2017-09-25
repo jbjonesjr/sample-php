@@ -1,3 +1,4 @@
+<!-- new comments -->
 <html>
 <head>
 <title>Single page example</title>
