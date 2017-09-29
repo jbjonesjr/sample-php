@@ -13,5 +13,5 @@
     },
     "spec": {},
     "status": {
-        "dockerImageRepository": "#{server-url}:5000/#{project}/#{app-name}",
+        "dockerImageRepository": "#{server-url}:5000/#{project}/#{app-name}-#{branch-name}",
     }
