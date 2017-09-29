@@ -1,0 +1,17 @@
+{
+    "apiVersion": "v1",
+    "kind": "ImageStream",
+    "metadata": {
+        "annotations": {
+            "openshift.io/generated-by": "probot-branches"
+        },
+        "labels": {
+            "app": "#{app-name}"
+        },
+        "name": "#{app-name}-#{branch-name}",
+        "namespace": "#{project}"
+    },
+    "spec": {},
+    "status": {
+        "dockerImageRepository": "#{server-url}:5000/#{project}/#{app-name}",
+    }
